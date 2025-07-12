@@ -1,3 +1,4 @@
+''' ------- CALCULATOR USING OOP ------- '''
 class Calc:
     def __init__(self):
         self.a = 0

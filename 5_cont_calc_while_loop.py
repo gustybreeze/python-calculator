@@ -1,3 +1,4 @@
+''' ------- CALCULATIONS USING A WHILE LOOP UNTIL THE USER QUITS. -------'''
 while True:
     num1 = float(input("Enter first number :"))   
     num2 = float(input("Enter second number :"))   

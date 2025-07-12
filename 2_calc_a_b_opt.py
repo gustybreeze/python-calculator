@@ -1,3 +1,4 @@
+''' ------- STRUCTURE THE CODE USING A FUNCTION ------- '''
 def calc(a, b, operator):
     try:
         if operator == '+':

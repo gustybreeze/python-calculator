@@ -1,3 +1,4 @@
+''' ------- DISPLAY THE RESULT IN FORMATTED OUTPUT. -------'''
 num1 = float(input("Enter first number :"))   
 num2 = float(input("Enter second number :"))   
 res = None

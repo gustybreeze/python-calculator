@@ -1,3 +1,4 @@
+''' ------- DIVISION BY ZERO USING try-except. ------- '''
 try:
     num1 = float(input("Enter first number :").strip())   
     num2 = float(input("Enter second number :").strip())   
