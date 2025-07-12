@@ -1,3 +1,5 @@
+''' ------- CALCULATOR APP ------- '''
+
 class calculator:
     def __init__(self):
         self.history_file = "history.txt"
