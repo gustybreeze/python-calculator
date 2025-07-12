@@ -13,7 +13,8 @@ It demonstrates different ways to build simple and interactive calculators using
 | `4_loop_calc.py`      | Calculator that runs in a loop for continuous use     |
 | `5_menu_calc.py`      | Menu-driven calculator with options from user         |
 | `6_logger_calc.py`    | Calculator with logging feature to `history.txt`      |
-
+| `7_comp_calc_app.py`  | Added complete calculator app with all features to    |
+|                       | `history.txt`                                         |
 ---
 
 ##  Features
